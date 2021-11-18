@@ -1,2 +1,4 @@
 # Machine_learning_assignments
-1. classification 2. regression 3. PCA
+1. classification (KNN, Logistic Regression, SVM, Decision Tree)
+2. regression (linear regression and neural network on housing price prediction)
+3. PCA (dimensionality reduction, data visualization, image compression)
